@@ -24,10 +24,10 @@ https://data.gov.in/catalog/school-educationstatistics?filters%5Bfield_catalog_r
 - Python (for web scraping)
 
 ## List of KPIs:
-I1- What year had the highest/lowest crime rate.
-I2- Which cities have the highest/lowest crime rates this year.
-I3- The most common types of crimes in India.
-I4- What is the population in India by city.
-I5- Relationship between unemployment rate and crime rate.
-I6- Relationship between school loss rate and crime rate.
-I7- Relationship between tourism rate and crime rate.
+- I1: What year had the highest/lowest crime rate.
+- I2: Which cities have the highest/lowest crime rates this year.
+- I3: The most common types of crimes in India.
+- I4: What is the population in India by city.
+- I5: Relationship between unemployment rate and crime rate.
+- I6: Relationship between school loss rate and crime rate.
+- I7: Relationship between tourism rate and crime rate.
