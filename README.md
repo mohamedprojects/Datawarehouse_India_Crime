@@ -31,3 +31,7 @@ https://data.gov.in/catalog/school-educationstatistics?filters%5Bfield_catalog_r
 - I5: Relationship between unemployment rate and crime rate.
 - I6: Relationship between school loss rate and crime rate.
 - I7: Relationship between tourism rate and crime rate.
+![image](https://user-images.githubusercontent.com/75954544/212709155-1de6e814-43c1-4bf9-934c-7e5857b11896.png)
+
+![image](https://user-images.githubusercontent.com/75954544/212709028-e5250a60-d910-4d41-b038-4921c880f9e8.png)
+
