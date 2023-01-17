@@ -1,0 +1,11 @@
+CREATE TABLE dbo.Crime 
+(
+Crime_ID INT NOT NULL IDENTITY(1,1),
+Category_ID INT NOT NULL,
+Category NVARCHAR(15) NOT NULL,
+Year_ INT NOT NULL,
+Number_of_crime INT NOT NULL DEFAULT 0,
+Crime_rate_annualy FLOAT NOT NULL DEFAULT 0,
+CONSTRAINT PK_crime PRIMARY KEY (Crime_ID)
+);
+GO

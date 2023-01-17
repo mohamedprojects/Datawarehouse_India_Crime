@@ -1,0 +1,11 @@
+CREATE TABLE dbo.Pays
+(
+PaysKey INT NOT NULL IDENTITY(1,1),
+City NVARCHAR(15) NULL,
+Population_ID INT NOT NULL,
+Tourisme_ID INT NOT NULL,
+Enrolement_ID INT NOT NULL,
+Unemployment_ID INT NOT NULL,
+CONSTRAINT PK_Pays PRIMARY KEY (PaysKey)
+);
+GO
